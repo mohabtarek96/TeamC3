@@ -1,6 +1,6 @@
-#Sprint0
+# Sprint0
 
-##Getting started: Using Github for the first time.
+## Getting started: Using Github for the first time.
 
 **Omar Mokbel __37-5624__** _MET_
 
